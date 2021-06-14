@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameSorter", "NameSorter\NameSorter.csproj", "{B4CF8848-451D-45D5-B908-285410E0134D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4CF8848-451D-45D5-B908-285410E0134D}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{B4CF8848-451D-45D5-B908-285410E0134D}.Debug|anycpu.Build.0 = Debug|anycpu
+		{B4CF8848-451D-45D5-B908-285410E0134D}.Release|anycpu.ActiveCfg = Release|anycpu
+		{B4CF8848-451D-45D5-B908-285410E0134D}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {914E37DA-2716-48BF-B619-DF7730AB29EF}
+	EndGlobalSection
+EndGlobal

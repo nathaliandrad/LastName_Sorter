@@ -1,0 +1,6 @@
+/Users/nandrade/Desktop/NameSorter/NameSorter/bin/Debug/NameSorter.exe
+/Users/nandrade/Desktop/NameSorter/NameSorter/bin/Debug/NameSorter.pdb
+/Users/nandrade/Desktop/NameSorter/NameSorter/obj/Debug/NameSorter.csprojAssemblyReference.cache
+/Users/nandrade/Desktop/NameSorter/NameSorter/obj/Debug/NameSorter.csproj.CoreCompileInputs.cache
+/Users/nandrade/Desktop/NameSorter/NameSorter/obj/Debug/NameSorter.exe
+/Users/nandrade/Desktop/NameSorter/NameSorter/obj/Debug/NameSorter.pdb
